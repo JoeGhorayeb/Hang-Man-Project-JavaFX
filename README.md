@@ -64,10 +64,10 @@ A fully interactive **Hangman game** built using **JavaFX**, featuring multiple 
 ### 🏠 Home Screen
 ![Home Screen](screenshots/home.png)
 
-### 🎮 Game Modes
+### 🎮 Gameplay
 ![Game Modes](screenshots/modes.png)
 
-### 🤖 VS CPU Gameplay
+### 🤖 VS CPU Screen
 ![VS CPU Gameplay](screenshots/vs-cpu.png)
 
 ### 👥 2 Players Mode
