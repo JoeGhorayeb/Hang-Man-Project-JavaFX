@@ -59,7 +59,6 @@ A fully interactive **Hangman game** built using **JavaFX**, featuring multiple 
 
 ## 📸 Screenshots
 
-> *(Make sure to add your images inside a `/screenshots` folder in your repo)*
 
 ### 🏠 Home Screen
 ![Home Screen](screenshots/home.png)
